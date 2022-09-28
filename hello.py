@@ -5,3 +5,6 @@
 # git remote -v
 # stage commit  !commit message! 작성
 #  push : git push origin master
+
+"""git clone 을 통한 레포지토리 복사"""
+"""branch 사용법"""
